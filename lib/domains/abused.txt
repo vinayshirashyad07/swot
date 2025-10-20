@@ -1621,3 +1621,4 @@ alu.uap.edu.pe
 uap.edu.pe
 muet.edu.pk
 isb.edu.vn
+rit.edu
