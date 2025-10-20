@@ -1620,3 +1620,4 @@ galata.edu.tr
 alu.uap.edu.pe
 uap.edu.pe
 muet.edu.pk
+isb.edu.vn
