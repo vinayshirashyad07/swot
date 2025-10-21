@@ -1624,3 +1624,4 @@ isb.edu.vn
 rit.edu
 ice.go.kr
 uth.hn
+knust.edu.gh
