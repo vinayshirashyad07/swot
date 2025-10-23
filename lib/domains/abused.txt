@@ -1626,3 +1626,4 @@ ice.go.kr
 uth.hn
 knust.edu.gh
 pucese.edu.ec
+uty.ac.id
